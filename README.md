@@ -18,14 +18,20 @@
 2. 再分别点击【身份验证器】和【电话号码】将其删除
 ![](https://i.imgur.com/JlX7aMI.png)
 
+- 更改语言：https://myaccount.google.com/language?gar=1
+- 更改密码：https://myaccount.google.com/signinoptions/password
+- 更改辅助邮箱（清空输入框，填入你邮箱验证）：https://myaccount.google.com/recovery/email
+- 绑定手机号：https://myaccount.google.com/signinoptions/rescuephone
+- 关联号码：注册 GV 时的验证号码，可删除。
+- 解锁：号码下面“解锁”是携号转网的意思（类似移动转联通），若无此需求请忽略。
+
 ## 资费
-|  | 费用 | 
-|---|---|
-| **月租** | 免费 | 
-| **收短信** | 免费 |  
-| **接电话** | 免费|   
-| **发短信** | 免费发至美国、加拿大号码。不支持给其他国家号码发短信|  
-| **打电话** | 免费拨打美国、加拿大号码，拨打其他国家号码收费标准[点击这里](https://voice.google.com/u/0/rates?pli=1) |
+- 月租：免费
+- 收短信：免费
+- 接电话*：免费
+- 发短信：免费发至美国、加拿大号码。不支持给其他国家号码发短信
+- 打电话：免费拨打美国、加拿大号码，拨打其他国家号码收费标准[点击这里](https://voice.google.com/u/0/rates?pli=1)
+- 充值：https://voice.google.com/u/0/billing
 
 ## 保号
 每 3 个月内打个电话或发条短信即可长期使用，否则会被收回。通过以下任意方式保号：
@@ -33,15 +39,6 @@
  - 免费拨打接通美国任意号码
  - 购买多个 GV，互相联系
  - 将 GV 转为永久号（无需保号），详情联系[客服](https://t.me/GVStore)
-
-## 其他问题
-- 更改语言：https://myaccount.google.com/language?gar=1
-- 更改密码：https://myaccount.google.com/signinoptions/password
-- 更改辅助邮箱（清空输入框，填入你邮箱验证）：https://myaccount.google.com/recovery/email
-- 绑定手机号：https://myaccount.google.com/signinoptions/rescuephone
-- 解锁：号码下面“解锁”是携号转网的意思（类似移动转联通），若无此需求请忽略。
-- 关联号码：注册 GV 时的验证号码，可删除。
-- 充值：https://voice.google.com/u/0/billing
 
 ## 转移
 转移指的是将 GV 号码转入到其他谷歌账号里。
