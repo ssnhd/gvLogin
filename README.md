@@ -16,6 +16,7 @@
 ## 登录后
 1. 打开 https://myaccount.google.com/signinoptions/two-step-verification/enroll-welcome 点击【停用两步验证】
 2. 再分别点击【身份验证器】和【电话号码】将其删除
+![](https://i.imgur.com/JlX7aMI.png)
 
 ## 资费
 |  | 费用 | 
