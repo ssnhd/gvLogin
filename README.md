@@ -25,6 +25,16 @@
 - 关联号码：注册 GV 时的验证号码，可删除。
 - 解锁：号码下面“解锁”是携号转网的意思（类似移动转联通），若无此需求请忽略。
 
+## App 登录
+
+1. 打开 Voice App 登录账号（方法同上面网页端）
+2. 若提示“选择目前的电话号码”，点击右下角 **skip（跳过）**
+3. 登录后，打开设置 > 拨打和接听电话 > 勾选【首选 Wi-Fi 和移动数据网络】
+
+>友情提示：
+>- 苹果手机：[美区 App Store](https://apps.apple.com/us/app/google-voice/id318698524) 安装 Voice，若没美区 Apple ID [点击这里购买](https://t.me/GVStore)。
+>- 安卓手机：[美区 Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=zh&gl=US) 安装 Voice 或下载 [apk](https://apkpure.com/search?q=Google+Voice) 安装。
+
 ## 资费
 - 月租：免费
 - 收短信：免费
