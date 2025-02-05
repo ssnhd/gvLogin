@@ -36,12 +36,14 @@
 >- 安卓手机：[美区 Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=zh&gl=US) 安装 Voice 或下载 [apk](https://apkpure.com/search?q=Google+Voice) 安装。
 
 ## 资费
-- 月租：免费
-- 收短信：免费
-- 接电话：免费
-- 发短信：免费发至美国、加拿大号码。不支持给其他国家号码发短信
-- 打电话：免费拨打美国、加拿大号码，拨打其他国家号码收费标准[点击这里](https://voice.google.com/u/0/rates?pli=1)
-- 充值：https://voice.google.com/u/0/billing
+| |资费|
+|---|---|
+|月租|免费|
+|收短信|免费|
+|发短信|免费发给美国、加拿大号码。不支持发给其他国家号码|
+|接电话|免费|
+|打电话|免费拨打美国、加拿大号码，[拨打其他国家号码收费](https://voice.google.com/u/0/rates?pli=1)|
+|充值|https://voice.google.com/u/0/billing|
 
 ## 保号
 每 3 个月内打个电话，否则将被收回。通过以下任意方式保号：
